@@ -8,4 +8,15 @@
 8. río - https://dle.rae.es/río
 9. bosque - https://dle.rae.es/bosque
 10. cielo - https://dle.rae.es/cielo
+11. legitimizar - https://www.rae.es/observatorio-de-palabras/legitimizar
+12. obstruccionar - https://www.rae.es/observatorio-de-palabras/obstruccionar
+13. visibilizacion - https://www.rae.es/observatorio-de-palabras/visibilizacion
+14. paranoya - https://www.rae.es/observatorio-de-palabras/paranoya
+15. deseleccionar - https://www.rae.es/observatorio-de-palabras/deseleccionar
+16. bilogia - https://www.rae.es/observatorio-de-palabras/bilogia
+17. recepcionar - https://www.rae.es/observatorio-de-palabras/recepcionar
+18. requistar - https://www.rae.es/observatorio-de-palabras/requisitar
+19. ranquin - https://www.rae.es/observatorio-de-palabras/ranquin
+20. aguachirri - https://www.rae.es/observatorio-de-palabras/aguachirri
+
 
